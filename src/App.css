@@ -1,5 +1,8 @@
 body {
-  background:#FFF8DC	;
+  background:#228B22;
+  background-image: url("/bg.jpeg");
+  background-size: cover;
+  /* height:100vh;  */
 }
 
 img {
@@ -20,7 +23,8 @@ button:focus {
 }
 
 .App-header {
-  background-color: Tomato;
+  background-color: #228B22;
+  /* background-color: Coral; */
   height: 90px;
   padding: 30px;
   color: white;
@@ -34,7 +38,7 @@ button:focus {
 }
 
 .recipe_buttons {
-  border: solid 2px #e74c3c;
+  border: solid 2px #228B22;
   background: transparent;
   padding: 0.4rem 0.6rem;
   margin: 0 0.2rem;
@@ -45,14 +49,14 @@ button:focus {
   margin-left: 0.7rem;
 }
 .recipe_buttons:hover {
-  background-color: Coral;
-  color: white;
+  background-color: #228B22;
+  color: red;
 }
 
 .recipes__box {
   background: #fff;
   padding-bottom: 2rem;
-  border: 1px solid Coral;
+  border: 1px solid #228B22;
   text-align: left;
   overflow: hidden;
 }
@@ -62,7 +66,7 @@ button:focus {
 }
 
 .recipes__title {
-  color: #e74c3c;
+  color: #228B22;
   text-transform: uppercase;
   font-size: 1.1rem;
   padding: 1.8rem 0 0.2rem 0;
@@ -93,8 +97,8 @@ button:focus {
 }
 
 .form__button {
-  border: solid 2px Tomato;
-  background: transparent;
+  border: solid 2px #228B22;
+  background: #9ACD32;
   padding: 0.2rem 0.9rem;
   margin: 0 0.2rem;
   border-radius: 1px;
@@ -104,7 +108,7 @@ button:focus {
   margin-left: 0.7rem;
 }
 .form__button:hover {
-  background-color: Coral;
+  background-color: #228B22;
   color: white;
 }
 
@@ -112,11 +116,11 @@ input[type="text"] {
   outline: none;
 }
 
-input:-webkit-autofill {
+/* input:-webkit-autofill {
   -webkit-box-shadow: 0 0 0 30px #f3f3f3 inset;
   -webkit-text-fill-color: #2c3e50 !important;
 }
-
+ */
 
 .active-recipe {
   margin: 0 auto;
@@ -125,6 +129,7 @@ input:-webkit-autofill {
 
 .active-recipe__img {
   height: 500px !important;
+  border: 1px solid #228B22;
 }
 
 .active-recipe__title {
@@ -148,14 +153,14 @@ input:-webkit-autofill {
 
 .active-recipe__website span {
   text-transform: lowercase;
-  font-weight: 300;
+  font-weight: bold;
   letter-spacing: 2px;
-  color: #e74c3c;
+  color: #228B22;
   margin-left: 10px;
 }
 
 .active-recipe__button {
-  border: solid 2px #e74c3c;
+  border: solid 2px #228B22;
   background: transparent;
   padding: 0.2rem 0.9rem;
   margin: 0 0.2rem;
@@ -163,4 +168,5 @@ input:-webkit-autofill {
   font-size: 1rem;
   text-transform: uppercase;
   font-weight: 500;
+  color: #228B22;
 }
