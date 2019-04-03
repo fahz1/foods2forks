@@ -26,7 +26,7 @@ class App extends Component {
   }
   componentDidMount = () => {
       const json = localStorage.getItem("recipes");
-      const recipes = JSON.parse(json);
+      const recipes = JSON.parse(json) || []; // default to empty array
       this.setState({ recipes });
     }
     componentDidUpdate = () => {
