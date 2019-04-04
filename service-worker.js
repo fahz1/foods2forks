@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fahz1.github.io/foods2forks/precache-manifest.1f5096da30ab204984c6061d274de7ff.js"
+  "foods2forks/precache-manifest.095b6bb5e968f7daf9313824a3367cbe.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/fahz1.github.io/foods2forks/index.html", {
+workbox.routing.registerNavigationRoute("foods2forks/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
