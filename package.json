@@ -2,7 +2,7 @@
   "name": "foods2forks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "foods2forks",
+  "homepage": "/foods2forks",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
