@@ -1,5 +1,5 @@
 {
-  "main.css": "/foods2forks/static/css/main.23e9aac2.chunk.css",
+  "main.css": "/foods2forks/static/css/main.032469f3.chunk.css",
   "main.js": "/foods2forks/static/js/main.896291c3.chunk.js",
   "main.js.map": "/foods2forks/static/js/main.896291c3.chunk.js.map",
   "runtime~main.js": "/foods2forks/static/js/runtime~main.df6aea35.js",
@@ -8,8 +8,8 @@
   "static/js/2.bd434ad4.chunk.js": "/foods2forks/static/js/2.bd434ad4.chunk.js",
   "static/js/2.bd434ad4.chunk.js.map": "/foods2forks/static/js/2.bd434ad4.chunk.js.map",
   "index.html": "/foods2forks/index.html",
-  "precache-manifest.a345d0733d173cfe061eb2b5e3fe7cfa.js": "/foods2forks/precache-manifest.a345d0733d173cfe061eb2b5e3fe7cfa.js",
+  "precache-manifest.a92ad503ca17d55a13cdf2211248e644.js": "/foods2forks/precache-manifest.a92ad503ca17d55a13cdf2211248e644.js",
   "service-worker.js": "/foods2forks/service-worker.js",
   "static/css/2.c18bf256.chunk.css.map": "/foods2forks/static/css/2.c18bf256.chunk.css.map",
-  "static/css/main.23e9aac2.chunk.css.map": "/foods2forks/static/css/main.23e9aac2.chunk.css.map"
+  "static/css/main.032469f3.chunk.css.map": "/foods2forks/static/css/main.032469f3.chunk.css.map"
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "94851afe811113754147",
-    "url": "/foods2forks/static/css/main.23e9aac2.chunk.css"
+    "revision": "78ee97d1b37e985569da",
+    "url": "/foods2forks/static/css/main.032469f3.chunk.css"
   },
   {
-    "revision": "94851afe811113754147",
+    "revision": "78ee97d1b37e985569da",
     "url": "/foods2forks/static/js/main.896291c3.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/foods2forks/static/js/2.bd434ad4.chunk.js"
   },
   {
-    "revision": "ce47a3fd7dd4540510181cddc8c624ca",
+    "revision": "e521285a6256b1347fd2716e3b004f69",
     "url": "/foods2forks/index.html"
   }
 ];
