@@ -1,6 +1,6 @@
 body {
   background:#228B22;
-  background-image: url("/bg.jpeg");
+background-image: url("bg.jpeg");
   background-size: cover;
   /* height:100vh;  */
 }
