@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The app uses an API from food2fork.com.
+The app uses React-Router
 ## Available Scripts
 
 In the project directory, you can run:
