@@ -1,15 +1,15 @@
 {
-  "main.css": "foods2forks/static/css/main.23e9aac2.chunk.css",
-  "main.js": "foods2forks/static/js/main.411dcb69.chunk.js",
-  "main.js.map": "foods2forks/static/js/main.411dcb69.chunk.js.map",
-  "runtime~main.js": "foods2forks/static/js/runtime~main.a76f4420.js",
-  "runtime~main.js.map": "foods2forks/static/js/runtime~main.a76f4420.js.map",
-  "static/css/2.c18bf256.chunk.css": "foods2forks/static/css/2.c18bf256.chunk.css",
-  "static/js/2.bd434ad4.chunk.js": "foods2forks/static/js/2.bd434ad4.chunk.js",
-  "static/js/2.bd434ad4.chunk.js.map": "foods2forks/static/js/2.bd434ad4.chunk.js.map",
-  "index.html": "foods2forks/index.html",
-  "precache-manifest.095b6bb5e968f7daf9313824a3367cbe.js": "foods2forks/precache-manifest.095b6bb5e968f7daf9313824a3367cbe.js",
-  "service-worker.js": "foods2forks/service-worker.js",
-  "static/css/2.c18bf256.chunk.css.map": "foods2forks/static/css/2.c18bf256.chunk.css.map",
-  "static/css/main.23e9aac2.chunk.css.map": "foods2forks/static/css/main.23e9aac2.chunk.css.map"
+  "main.css": "/foods2forks/static/css/main.23e9aac2.chunk.css",
+  "main.js": "/foods2forks/static/js/main.896291c3.chunk.js",
+  "main.js.map": "/foods2forks/static/js/main.896291c3.chunk.js.map",
+  "runtime~main.js": "/foods2forks/static/js/runtime~main.df6aea35.js",
+  "runtime~main.js.map": "/foods2forks/static/js/runtime~main.df6aea35.js.map",
+  "static/css/2.c18bf256.chunk.css": "/foods2forks/static/css/2.c18bf256.chunk.css",
+  "static/js/2.bd434ad4.chunk.js": "/foods2forks/static/js/2.bd434ad4.chunk.js",
+  "static/js/2.bd434ad4.chunk.js.map": "/foods2forks/static/js/2.bd434ad4.chunk.js.map",
+  "index.html": "/foods2forks/index.html",
+  "precache-manifest.a345d0733d173cfe061eb2b5e3fe7cfa.js": "/foods2forks/precache-manifest.a345d0733d173cfe061eb2b5e3fe7cfa.js",
+  "service-worker.js": "/foods2forks/service-worker.js",
+  "static/css/2.c18bf256.chunk.css.map": "/foods2forks/static/css/2.c18bf256.chunk.css.map",
+  "static/css/main.23e9aac2.chunk.css.map": "/foods2forks/static/css/main.23e9aac2.chunk.css.map"
 }
